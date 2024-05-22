@@ -3,7 +3,7 @@
 
 This project is focused on in-depth exploratory data analysis of football data, aiming to uncover the intricate patterns and dynamics that define the sport.
 
-View the [Interactive EDA Notebook](https://nbviewer.org/github/Nakshjainsonigara/Football-EDA/blob/85c6528f326f40c531222a88a703a430f7a8f2fa/EDA.ipynb#) for interactive visualizations.
+View the [Kaggle Notebook](https://www.kaggle.com/code/nakshjain11/football-eda) or [Interactive EDA Notebook](https://nbviewer.org/github/Nakshjainsonigara/Football-EDA/blob/85c6528f326f40c531222a88a703a430f7a8f2fa/EDA.ipynb#)  for interactive visualizations.
 
 ## Contributors
 
